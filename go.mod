@@ -1,4 +1,4 @@
-module iropic-go
+module github.com/ayanami-desu/iropic-go
 
 go 1.20
 
